@@ -1,6 +1,6 @@
-# 🚨 Database Soccorso
+# Database Soccorso
 
-Database relazionale per la gestione di un sistema di **soccorso e pronto intervento**, sviluppato come progetto per il corso di **Laboratorio Basi di Dati** (Anno II).
+Database relazionale per la gestione di un sistema di **soccorso e pronto intervento**, sviluppato come progetto per il corso di **Laboratorio Basi di Dati**.
 
 ## Descrizione
 
@@ -67,11 +67,6 @@ Il database include trigger per garantire la coerenza dei dati:
 2. **Popolare con dati di esempio:**
    ```sql
    SOURCE Informazioni_per_DB.sql;
-   ```
-
-3. **Eseguire le query:**
-   ```sql
-   SOURCE Query.Sam.sql;
    ```
 
 ## Query Principali
